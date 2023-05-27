@@ -1,82 +1,102 @@
 [
   {
     "_id": 1,
-    "chef_picture_url": "https://example.com/chef1.jpg",
+    "chef_picture_url": "/images/one.webp",
     "chef_name": "Chef Aisha Rahman",
     "years_of_experience": 8,
     "num_recipes": 150,
-    "likes": 2000
+    "likes": 2000,
+    "recipes": [3, 10, 18, 5, 2, 12, 9],
+    "bio": " Chef Aisha Rahman is a talented chef with 8 years of experience in the culinary world. Her extensive repertoire consists of 150 unique recipes that showcase her creativity and expertise. Known for her attention to detail and passion for flavor combinations, Chef Aisha has garnered a strong following, earning 2000 likes for her delectable creations. With her dedication to the art of cooking, she continues to inspire food enthusiasts with her exceptional culinary skills."
   },
   {
     "_id": 2,
-    "chef_picture_url": "https://example.com/chef2.jpg",
+    "chef_picture_url": "/images/two.jpg",
     "chef_name": "Chef Mustafa Ahmed",
     "years_of_experience": 12,
     "num_recipes": 250,
-    "likes": 3500
+    "likes": 3500,
+    "recipes": [7, 15, 4, 11, 20, 6, 13],
+    "bio": " Chef Mustafa Ahmed is a seasoned chef with 12 years of experience in the culinary industry. His vast collection of 250 recipes reflects his deep knowledge and passion for cooking. With a remarkable ability to infuse flavors and textures, Chef Mustafa has gained a substantial following, accumulating an impressive 3500 likes. His culinary creations are a fusion of tradition and innovation, captivating food lovers with every dish he prepares."
   },
   {
     "_id": 3,
-    "chef_picture_url": "https://example.com/chef3.jpg",
+    "chef_picture_url": "/images/three.jpeg",
     "chef_name": "Chef Rina Khan",
     "years_of_experience": 5,
     "num_recipes": 100,
-    "likes": 1200
+    "likes": 1200,
+    "recipes": [1, 8, 19, 14, 17, 21, 16],
+    "bio": "Chef Rina Khan brings her fresh perspective to the culinary world with 5 years of experience. She has curated a diverse collection of 100 recipes that showcase her unique style and creativity. With a dedicated following, Chef Rina has garnered 1200 likes for her innovative approach to cooking. Her dishes are a reflection of her adventurous spirit, combining unexpected ingredients and techniques to create delightful culinary experiences."
   },
   {
     "_id": 4,
-    "chef_picture_url": "https://example.com/chef4.jpg",
+    "chef_picture_url": "/images/four.jpg",
     "chef_name": "Chef Kamal Hussain",
     "years_of_experience": 15,
     "num_recipes": 300,
-    "likes": 4500
+    "likes": 4500,
+    "recipes": [9, 6, 2, 16, 10, 4, 7],
+    "bio": "With an impressive 15 years of experience, Chef Kamal Hussain is a highly skilled and renowned chef in the culinary industry. His extensive repertoire consists of 300 meticulously crafted recipes that showcase his culinary expertise. Chef Kamal has amassed a significant following, earning 4500 likes for his exceptional creations. His dishes are a harmonious blend of flavors, textures, and presentation, captivating food enthusiasts with every bite."
   },
   {
     "_id": 5,
-    "chef_picture_url": "https://example.com/chef5.jpg",
+    "chef_picture_url": "/images/five.webp",
     "chef_name": "Chef Nusrat Islam",
     "years_of_experience": 10,
     "num_recipes": 200,
-    "likes": 2800
+    "likes": 2800,
+    "recipes": [12, 3, 15, 20, 13, 18, 5],
+    "bio": "Chef Nusrat Islam, with 10 years of experience, is a talented chef known for her versatility and culinary prowess. She has curated an impressive collection of 200 recipes that reflect her passion for creating unique and memorable dining experiences. Chef Nusrat's culinary creations have garnered widespread acclaim, earning her 2800 likes from her dedicated followers. Her dishes showcase a balance of innovation and tradition, leaving a lasting impression on the taste buds of food enthusiasts."
   },
   {
     "_id": 6,
-    "chef_picture_url": "https://example.com/chef6.jpg",
+    "chef_picture_url": "/images/six.jpg",
     "chef_name": "Chef Rafiq Ahmed",
     "years_of_experience": 3,
     "num_recipes": 50,
-    "likes": 800
+    "likes": 800,
+    "recipes": [11, 14, 17, 1, 8, 19],
+    "bio": "Chef Rafiq Ahmed, though relatively new to the culinary scene with 3 years of experience, has quickly made a name for himself. Despite his limited repertoire of 50 recipes, his creations have captivated the palates of many, earning him 800 likes. Chef Rafiq's passion for exploring bold flavors and experimenting with unique ingredients shines through in his dishes, offering a refreshing take on traditional recipes."
   },
   {
     "_id": 7,
-    "chef_picture_url": "https://example.com/chef7.jpg",
+    "chef_picture_url": "/images/seven.jpg",
     "chef_name": "Chef Fatima Begum",
     "years_of_experience": 7,
     "num_recipes": 120,
-    "likes": 1500
+    "likes": 1500,
+    "recipes": [21, 4, 7, 9, 16, 3, 2],
+    "bio": "Chef Fatima Begum, with 7 years of experience, is a skilled chef celebrated for her mastery of culinary techniques. Her repertoire comprises 120 meticulously crafted recipes that highlight her attention to detail and commitment to delivering exceptional taste. Chef Fatima has earned a devoted following, amassing 1500 likes for her culinary creations. Her dishes are a harmonious blend of flavors, textures, and visual appeal, reflecting her dedication to the art of cooking."
   },
   {
     "_id": 8,
-    "chef_picture_url": "https://example.com/chef8.jpg",
+    "chef_picture_url": "/images/eight.jpg",
     "chef_name": "Chef Arif Hossain",
     "years_of_experience": 9,
     "num_recipes": 180,
-    "likes": 2200
+    "likes": 2200,
+    "recipes": [18, 6, 12, 10, 13, 5],
+    "bio": "Chef Arif Hossain is a seasoned chef with 9 years of experience in the culinary field. His extensive collection of 180 recipes showcases his culinary expertise and creativity. With a strong following, Chef Arif has garnered 2200 likes for his exceptional creations. Known for his innovative approach to cooking, he infuses his dishes with a delightful fusion of flavors, elevating each culinary experience."
   },
   {
     "_id": 9,
-    "chef_picture_url": "https://example.com/chef9.jpg",
+    "chef_picture_url": "/images/nine.jpg",
     "chef_name": "Chef Anika Rahman",
     "years_of_experience": 6,
     "num_recipes": 90,
-    "likes": 1000
+    "likes": 1000,
+    "recipes": [20, 1, 15, 17, 14, 19, 11],
+    "bio": "Chef Anika Rahman is a talented chef who has made a mark in the culinary world with 6 years of experience. Her collection of 90 recipes reflects her dedication to creating unique and flavorful dishes. Chef Anika has earned a loyal following, receiving 1000 likes for her culinary creations. Her passion for combining ingredients and flavors in unexpected ways results in dishes that surprise and delight food enthusiasts."
   },
   {
     "_id": 10,
-    "chef_picture_url": "https://example.com/chef10.jpg",
+    "chef_picture_url": "/images/ten.jpg",
     "chef_name": "Chef Imran Khan",
     "years_of_experience": 11,
     "num_recipes": 220,
-    "likes": 3200
+    "likes": 3200,
+    "recipes": [8, 21, 16, 4, 7, 9],
+    "bio": "Chef Imran Khan is an experienced chef with 11 years of expertise in the culinary realm. His extensive repertoire features 220 carefully crafted recipes that showcase his culinary creativity and skill. Chef Imran has amassed a dedicated following, earning 3200 likes for his exceptional dishes. Known for his ability to blend traditional and contemporary flavors, his culinary creations offer a delightful journey for the taste buds."
   }
 ]

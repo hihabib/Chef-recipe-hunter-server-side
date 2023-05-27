@@ -1,0 +1,574 @@
+[
+  {
+    "_id": 1,
+    "image": "/images/recipe/1.jpg",
+    "recipeName": "Pir Bhaji",
+    "ingredients": [
+      "1 pound boneless, skinless chicken breasts, cut into 1-inch pieces",
+      "1 tablespoon oil",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/4 cup chopped cilantro",
+      "1/4 cup chopped mint"
+    ],
+    "cookingMethod": [
+      "Heat the oil in a large pot or Dutch oven over medium heat.",
+      "Add the chicken and cook until browned on all sides.",
+      "Add the onion and cook until softened.",
+      "Add the tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Cook for 5 minutes, stirring occasionally.",
+      "Add 1 cup of water and bring to a boil.",
+      "Reduce heat to low and simmer for 20 minutes, or until the chicken is cooked through.",
+      "Garnish with cilantro and mint."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 2,
+    "image": "/images/recipe/2.jpg",
+    "recipeName": "Khichuri",
+    "ingredients": [
+      "1 cup basmati rice",
+      "1 cup lentils",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/4 cup chopped cilantro"
+    ],
+    "cookingMethod": [
+      "Wash the rice and lentils in cold water until the water runs clear.",
+      "In a large pot or Dutch oven, combine the rice, lentils, onion, tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Add 3 cups of water and bring to a boil.",
+      "Reduce heat to low and simmer for 30 minutes, or until the rice and lentils are cooked through.",
+      "Garnish with cilantro."
+    ],
+    "rating": 4.0
+  },
+  {
+    "_id": 3,
+    "image": "/images/recipe/3.jpg",
+    "recipeName": "Bengali Fish Curry",
+    "ingredients": [
+      "500g fish",
+      "2 onions",
+      "2 tomatoes",
+      "2 green chilies",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1 tsp ginger paste",
+      "1 tsp garlic paste",
+      "4 tbsp mustard oil",
+      "Salt to taste"
+    ],
+    "cookingMethod": [
+      "Marinate the fish with turmeric powder and salt. Set aside for 15 minutes.",
+      "Heat mustard oil in a pan and fry the fish until golden brown. Remove and keep aside.",
+      "In the same pan, add sliced onions and sauté until golden brown.",
+      "Add ginger-garlic paste, green chilies, and spices. Cook for a minute.",
+      "Add chopped tomatoes and cook until they become soft.",
+      "Add water and bring it to a boil. Then, simmer for 5 minutes.",
+      "Gently slide in the fried fish and cook for another 5 minutes.",
+      "Serve hot with steamed rice or roti."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 4,
+    "image": "/images/recipe/4.jpg",
+    "recipeName": "Chicken Bhuna",
+    "ingredients": [
+      "500g chicken",
+      "2 onions",
+      "2 tomatoes",
+      "2 green chilies",
+      "1 tsp ginger paste",
+      "1 tsp garlic paste",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "4 tbsp oil",
+      "Salt to taste"
+    ],
+    "cookingMethod": [
+      "Heat oil in a pan and sauté sliced onions until golden brown.",
+      "Add ginger-garlic paste and green chilies. Cook for a minute.",
+      "Add chicken pieces and cook until they turn white.",
+      "Add turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Mix well.",
+      "Add chopped tomatoes and cook until they become soft.",
+      "Add water if needed and simmer until the chicken is cooked and the gravy thickens.",
+      "Serve hot with rice or roti."
+    ],
+    "rating": 4.2
+  },
+  {
+    "_id": 5,
+    "image": "/images/recipe/5.jpg",
+    "recipeName": "Bhaja Ghonto",
+    "ingredients": [
+      "1 pound mixed vegetables, such as potatoes, carrots, cauliflower, and green beans",
+      "1 tablespoon oil",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/4 cup chopped cilantro"
+    ],
+    "cookingMethod": [
+      "Wash the vegetables and cut them into bite-sized pieces.",
+      "Heat the oil in a large pot or Dutch oven over medium heat.",
+      "Add the onion and cook until softened.",
+      "Add the vegetables and cook until they are tender.",
+      "Add the ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Cook for 5 minutes, stirring occasionally.",
+      "Serve hot with rice or roti."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 6,
+    "image": "/images/recipe/6.jpg",
+    "recipeName": "Aloo Bhaja",
+    "ingredients": [
+      "4 large potatoes, peeled and cut into 1-inch cubes",
+      "1 tablespoon oil",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt"
+    ],
+    "cookingMethod": [
+      "Heat the oil in a large pot or Dutch oven over medium heat.",
+      "Add the potatoes and cook until they are golden brown on all sides.",
+      "Remove the potatoes from the pot and set aside.",
+      "Add the onion to the pot and cook until softened.",
+      "Add the tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Cook for 5 minutes, stirring occasionally.",
+      "Add the potatoes back to the pot and stir to coat.",
+      "Reduce heat to low and simmer for 15 minutes, or until the potatoes are tender.",
+      "Serve hot with rice or roti."
+    ],
+    "rating": 4.0
+  },
+  {
+    "_id": 7,
+    "image": "/images/recipe/7.jpg",
+    "recipeName": "Jhalmuri",
+    "ingredients": [
+      "1 cup puffed rice",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/2 cup chopped cilantro",
+      "1/2 cup chopped mint",
+      "1/4 cup chopped green chilies",
+      "1/4 cup lemon juice",
+      "1/4 cup mustard oil"
+    ],
+    "cookingMethod": [
+      "In a large bowl, combine the puffed rice, onion, tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Add the cilantro, mint, green chilies, lemon juice, and mustard oil.",
+      "Mix well and serve immediately."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 8,
+    "image": "/images/recipe/8.jpg",
+    "recipeName": "Rosogolla",
+    "ingredients": [
+      "1 cup milk",
+      "1/2 cup sugar",
+      "1/2 teaspoon lemon juice",
+      "1/4 cup rose water"
+    ],
+    "cookingMethod": [
+      "In a large saucepan, heat the milk over medium heat.",
+      "Once the milk comes to a boil, reduce heat to low and simmer for 10 minutes, or until the milk has reduced by half.",
+      "Add the sugar and lemon juice and stir until the sugar has dissolved.",
+      "Remove the pan from the heat and stir in the rose water.",
+      "Drop the hot milk mixture into a bowl of cold water.",
+      "Once the balls have cooled, they are ready to be served."
+    ],
+    "rating": 4.0
+  },
+  {
+    "_id": 9,
+    "image": "/images/recipe/9.jpg",
+    "recipeName": "Shemai",
+    "ingredients": [
+      "1 cup semolina",
+      "1/2 cup milk",
+      "1/2 cup sugar",
+      "1/2 teaspoon cardamom powder",
+      "1/4 teaspoon saffron, dissolved in 1 tablespoon warm water",
+      "1/4 cup chopped almonds",
+      "1/4 cup chopped pistachios"
+    ],
+    "cookingMethod": [
+      "In a large bowl, combine the semolina, milk, sugar, cardamom powder, and saffron water.",
+      "Mix well and let stand for 30 minutes.",
+      "Heat a large skillet over medium heat.",
+      "Add the semolina mixture and cook, stirring constantly, until it is golden brown and cooked through.",
+      "Remove the pan from the heat and stir in the almonds and pistachios.",
+      "Serve hot."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 10,
+    "image": "/images/recipe/10.jpg",
+    "recipeName": "Payesh",
+    "ingredients": [
+      "1 cup milk",
+      "1/2 cup rice, rinsed and drained",
+      "1/2 cup sugar",
+      "1/4 teaspoon cardamom powder"
+    ],
+    "cookingMethod": [
+      "In a large saucepan, heat the milk over medium heat.",
+      "Once the milk comes to a boil, reduce heat to low and simmer for 10 minutes, or until the milk has reduced by half.",
+      "Add the rice and sugar and stir until the rice is cooked through.",
+      "Remove the pan from the heat and stir in the cardamom powder.",
+      "Serve hot."
+    ],
+    "rating": 4.0
+  },
+  {
+    "_id": 11,
+    "image": "/images/recipe/11.jpg",
+    "recipeName": "Beef Roast",
+    "ingredients": [
+      "1 kg beef, cut into 1-inch cubes",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/4 cup chopped cilantro"
+    ],
+    "cookingMethod": [
+      "Heat the oil in a large pot or Dutch oven over medium heat.",
+      "Add the beef and cook until browned on all sides.",
+      "Remove the beef from the pot and set aside.",
+      "Add the onion to the pot and cook until softened.",
+      "Add the tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Cook for 5 minutes, stirring occasionally.",
+      "Add the beef back to the pot and stir to coat.",
+      "Reduce heat to low and simmer for 1 hour, or until the beef is tender.",
+      "Garnish with cilantro and serve hot with rice or roti."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 12,
+    "image": "/images/recipe/12.jpg",
+    "recipeName": "Chicken Kheer",
+    "ingredients": [
+      "1 cup milk",
+      "1/2 cup rice, rinsed and drained",
+      "1/2 cup sugar",
+      "1/2 cup chicken, cooked and shredded",
+      "1/4 teaspoon cardamom powder"
+    ],
+    "cookingMethod": [
+      "In a large saucepan, heat the milk over medium heat.",
+      "Once the milk comes to a boil, reduce heat to low and simmer for 10 minutes, or until the milk has reduced by half.",
+      "Add the rice and sugar and stir until the rice is cooked through.",
+      "Remove the pan from the heat and stir in the chicken and cardamom powder.",
+      "Serve hot."
+    ],
+    "rating": 4.0
+  },
+  {
+    "_id": 13,
+    "image": "/images/recipe/13.jpg",
+    "recipeName": "Mutton Khichuri",
+    "ingredients": [
+      "1 cup basmati rice",
+      "1 cup lentils",
+      "1 pound mutton, cut into 1-inch cubes",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/4 cup chopped cilantro"
+    ],
+    "cookingMethod": [
+      "Wash the rice and lentils in cold water until the water runs clear.",
+      "In a large pot or Dutch oven, combine the rice, lentils, mutton, onion, tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Add 3 cups of water and bring to a boil.",
+      "Reduce heat to low and simmer for 30 minutes, or until the rice and lentils are cooked through.",
+      "Garnish with cilantro and serve hot."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 14,
+    "image": "/images/recipe/14.jpg",
+    "recipeName": "Pulao",
+    "ingredients": [
+      "1 cup basmati rice",
+      "1 pound chicken, cut into 1-inch cubes",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/4 cup chopped cilantro"
+    ],
+    "cookingMethod": [
+      "Wash the rice in cold water until the water runs clear.",
+      "In a large pot or Dutch oven, heat 1 tablespoon of oil over medium heat.",
+      "Add the chicken and cook until browned on all sides.",
+      "Remove the chicken from the pot and set aside.",
+      "Add the remaining 1 tablespoon of oil to the pot and heat over medium heat.",
+      "Add the onion and cook until softened.",
+      "Add the tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Cook for 5 minutes, stirring occasionally.",
+      "Add the rice and chicken back to the pot and stir to coat.",
+      "Add 3 cups of water and bring to a boil.",
+      "Reduce heat to low, cover, and simmer for 20 minutes, or until the rice is cooked through.",
+      "Garnish with cilantro and serve hot."
+    ],
+    "rating": 4.0
+  },
+  {
+    "_id": 15,
+    "image": "/images/recipe/15.jpg",
+    "recipeName": "Kachchi Biryani",
+    "ingredients": [
+      "1 cup basmati rice, soaked for 30 minutes",
+      "1 pound chicken, cut into 1-inch cubes",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/4 cup chopped cilantro",
+      "1/4 cup chopped mint",
+      "1/4 cup yogurt",
+      "1/4 cup lemon juice",
+      "1/4 cup mustard oil"
+    ],
+    "cookingMethod": [
+      "In a large pot or Dutch oven, heat 1 tablespoon of mustard oil over medium heat.",
+      "Add the chicken and cook until browned on all sides.",
+      "Remove the chicken from the pot and set aside.",
+      "Add the remaining 1 tablespoon of mustard oil to the pot and heat over medium heat.",
+      "Add the onion and cook until softened.",
+      "Add the tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Cook for 5 minutes, stirring occasionally.",
+      "Add the chicken back to the pot and stir to coat.",
+      "Add the yogurt, lemon juice, cilantro, mint, and rice.",
+      "Mix well and bring to a boil.",
+      "Reduce heat to low, cover, and simmer for 20 minutes, or until the rice is cooked through.",
+      "Garnish with cilantro and serve hot."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 16,
+    "image": "/images/recipe/16.jpg",
+    "recipeName": "Chotpoti",
+    "ingredients": [
+      "1 cup rice, cooked",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 cucumber, chopped",
+      "1 green chili, chopped",
+      "1/2 cup chickpeas, cooked",
+      "1/2 cup potatoes, boiled and cubed",
+      "1/2 cup boiled eggs, chopped",
+      "1/4 cup chopped cilantro",
+      "1/4 cup chopped mint",
+      "1/4 cup lemon juice",
+      "1/4 cup mustard oil",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper"
+    ],
+    "cookingMethod": [
+      "In a large bowl, combine the rice, onion, tomatoes, cucumber, green chili, chickpeas, potatoes, eggs, cilantro, mint, lemon juice, mustard oil, salt, and black pepper.",
+      "Mix well and serve chilled."
+    ],
+    "rating": 4.0
+  },
+  {
+    "_id": 17,
+    "image": "/images/recipe/17.jpg",
+    "recipeName": "Vegetable Curry",
+    "ingredients": [
+      "1 tablespoon oil",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/2 cup chopped cilantro",
+      "1/2 cup chopped mint",
+      "1/2 cup vegetable broth",
+      "1 cup mixed vegetables, such as potatoes, carrots, cauliflower, and green beans"
+    ],
+    "cookingMethod": [
+      "Heat the oil in a large pot or Dutch oven over medium heat.",
+      "Add the onion and cook until softened.",
+      "Add the tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Cook for 5 minutes, stirring occasionally.",
+      "Add the vegetables and vegetable broth.",
+      "Bring to a boil, then reduce heat to low and simmer for 15 minutes, or until the vegetables are tender.",
+      "Garnish with cilantro and serve hot."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 18,
+    "image": "/images/recipe/18.jpg",
+    "recipeName": "Roasted Chicken",
+    "ingredients": [
+      "1 whole chicken, cut into 8 pieces",
+      "1 tablespoon oil",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/4 cup chopped cilantro"
+    ],
+    "cookingMethod": [
+      "Preheat oven to 375 degrees F (190 degrees C).",
+      "Heat the oil in a large skillet over medium heat.",
+      "Add the chicken and cook until browned on all sides.",
+      "Remove the chicken from the skillet and set aside.",
+      "Add the onion and cook until softened.",
+      "Add the tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Cook for 5 minutes, stirring occasionally.",
+      "Add the chicken back to the skillet and stir to coat.",
+      "Transfer the chicken to a baking dish and bake for 30 minutes, or until the chicken is cooked through.",
+      "Garnish with cilantro and serve hot."
+    ],
+    "rating": 4.0
+  },
+  {
+    "_id": 19,
+    "image": "/images/recipe/19.jpg",
+    "recipeName": "Kheer",
+    "ingredients": [
+      "1 cup milk",
+      "1/2 cup rice, rinsed and drained",
+      "1/2 cup sugar",
+      "1/4 teaspoon cardamom powder"
+    ],
+    "cookingMethod": [
+      "In a large saucepan, heat the milk over medium heat.",
+      "Once the milk comes to a boil, reduce heat to low and simmer for 10 minutes, or until the milk has reduced by half.",
+      "Add the rice and sugar and stir until the rice is cooked through.",
+      "Remove the pan from the heat and stir in the cardamom powder.",
+      "Serve hot."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 20,
+    "image": "/images/recipe/20.jpg",
+    "recipeName": "Rajma Curry",
+    "ingredients": [
+      "1 cup red kidney beans, soaked overnight",
+      "1 tablespoon oil",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/2 cup chopped cilantro"
+    ],
+    "cookingMethod": [
+      "Drain the kidney beans and rinse them well.",
+      "Heat the oil in a large pot or Dutch oven over medium heat.",
+      "Add the onion and cook until softened.",
+      "Add the tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Cook for 5 minutes, stirring occasionally.",
+      "Add the kidney beans and 2 cups of water.",
+      "Bring to a boil, then reduce heat to low and simmer for 30 minutes, or until the kidney beans are tender.",
+      "Garnish with cilantro and serve hot."
+    ],
+    "rating": 4.5
+  },
+  {
+    "_id": 21,
+    "image": "/images/recipe/21.jpg",
+    "recipeName": "Chicken Curry",
+    "ingredients": [
+      "1 pound chicken, cut into 1-inch cubes",
+      "1 tablespoon oil",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 teaspoon ginger garlic paste",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1/2 teaspoon garam masala powder",
+      "1/2 teaspoon salt",
+      "1/4 cup chopped cilantro"
+    ],
+    "cookingMethod": [
+      "Heat the oil in a large pot or Dutch oven over medium heat.",
+      "Add the chicken and cook until browned on all sides.",
+      "Remove the chicken from the pot and set aside.",
+      "Add the onion and cook until softened.",
+      "Add the tomatoes, ginger garlic paste, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt.",
+      "Cook for 5 minutes, stirring occasionally.",
+      "Add the chicken back to the pot and stir to coat.",
+      "Bring to a boil, then reduce heat to low and simmer for 30 minutes, or until the chicken is cooked through.",
+      "Garnish with cilantro and serve hot."
+    ],
+    "rating": 4.0
+  }
+]
