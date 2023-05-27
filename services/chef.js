@@ -19,7 +19,6 @@ const getChefByIdService = async (id) => {
       path.join(path.dirname(require.main.filename), "fakeDB", "chef.json")
     );
     chefList = JSON.parse(chefList);
-
     const { index, error } = binarySearch(
       chefList[0]._id,
       chefList[chefList.length - 1]._id,

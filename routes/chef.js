@@ -1,5 +1,5 @@
 const route = require("express").Router();
-
+const middleware = require("../middleware/validateRequest");
 const controller = require("../controllers/chef");
 
 /**
@@ -10,6 +10,6 @@ route.get("/", controller.getAllChefs);
 /**
  * get specific chef details
  */
-route.get("/:id", controller.getChefById);
+route.get("/:id", middleware.validateId, controller.getChefById);
 
 module.exports = route;
