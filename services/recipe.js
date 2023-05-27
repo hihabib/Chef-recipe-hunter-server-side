@@ -6,14 +6,12 @@ const getRecipesByChefIdService = async (id) => {
   try {
     // get all recipes
     let recipes = await fs.readFile(
-      path.join(path.dirname(require.main.filename), "fakeDB", "recipe.json")
+      path.join(appRoot, "fakeDB", "recipe.json")
     );
     recipes = JSON.parse(recipes);
 
     // get all chefs
-    let allChefs = await fs.readFile(
-      path.join(path.dirname(require.main.filename), "fakeDB", "chef.json")
-    );
+    let allChefs = await fs.readFile(path.join(appRoot, "fakeDB", "chef.json"));
     allChefs = JSON.parse(allChefs);
 
     const { index, error } = binarySearch(
