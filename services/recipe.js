@@ -2,12 +2,10 @@ const binarySearch = require("../utilities/search");
 
 const getRecipesByChefIdService = (id) => {
   // get all recipes
-  let recipes = require("../fakeDB/recipe.json");
-  recipes = JSON.parse(recipes);
+  const recipes = require("../fakeDB/recipe.json");
 
   // get all chefs
-  let allChefs = require("../fakeDB/chef.json");
-  allChefs = JSON.parse(allChefs);
+  const allChefs = require("../fakeDB/chef.json");
 
   const { index, error } = binarySearch(
     allChefs[0]._id,
