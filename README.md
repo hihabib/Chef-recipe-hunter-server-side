@@ -5,7 +5,7 @@ End points:
 <br>
 <strong>List of all chefs</strong><br>
 https://chef-recipe-hunter-server-side-hihabib.vercel.app/api/v1/chefs
-<br><br>
+<br>
 
 <strong>List of specific chef by id (available 1-10 currently)</strong><br>
 https://chef-recipe-hunter-server-side-hihabib.vercel.app/api/v1/chefs/[id]
