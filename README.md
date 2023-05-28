@@ -13,6 +13,7 @@ https://chef-recipe-hunter-server-side-hihabib.vercel.app/api/v1/chefs/[id]
 example:<br>
 https://chef-recipe-hunter-server-side-hihabib.vercel.app/api/v1/chefs/6
 <br>
+<br>
 <strong>List of recipes of a specific chef</strong><br>
 https://chef-recipe-hunter-server-side-hihabib.vercel.app/api/v1/recipes/[id]<br>
 example: <br>
