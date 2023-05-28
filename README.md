@@ -1,5 +1,10 @@
-# b7a10-chef-recipe-hunter-server-side-hihabib
+# Chef-recipe-hunter-server-side
 
+<br>
+Client side repository link:https://github.com/hihabib/Chef-recipe-hunter-client-side<br>
+Live website link: https://chef-recipe-hunter-29fa6.web.app/    
+<br>
+<br>
 End points:
 <br>
 <br>
